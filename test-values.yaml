@@ -1,0 +1,7 @@
+---
+postgres:
+  enabled: false
+redis:
+  enabled: false
+s3:
+  enabled: true

@@ -1,0 +1,16 @@
+---
+global:
+  polaris:
+    accountID: "1234567890"
+    accountName: "accountname"
+    cloudProvider: "aws"
+    environment: "test"
+    instance: "pre-prod-1"
+    region: "eu-west-1"
+polaris:
+  resource:
+    prefix: "foof"
+chart:
+  name: "wtf"
+image:
+  foo: true
